@@ -11,7 +11,7 @@ I am founder and CEO at Neps Academy. Besides that, I work on projects that I fi
 ![Profile Views](https://komarev.com/ghpvc/?username=ThiNepo&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
-🔭&nbsp;I spend most of my time **working for Neps Academy**
+🔭&nbsp;I spend most of my time **working at Neps Academy**
 <br/>🎓&nbsp;Master in **Computer Science**
 <br/>🌱&nbsp;Learning about **Web Development, DevOps, Data Science and Machine Learning**
 <br/>💡&nbsp;I'm interested about **Programming, Games and Crossfit**
