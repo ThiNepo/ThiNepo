@@ -19,7 +19,7 @@ I am founder and CEO at Neps Academy. Besides that, I work on projects that I fi
 <br/>😄&nbsp;Pronouns **He/His**
 <br/>⚡&nbsp;Fun fact **I was a professional cyclist 🤷**
 <br/>📫&nbsp;Reach me [thiago@neps.academy](mailto:thiago@neps.academy)
-<br/>🖥&nbsp; Learn more about Neps Academy [neps.academy](mailto:neps.academy)
+<br/>🖥&nbsp; Learn more about Neps Academy [neps.academy](https://neps.academy)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
