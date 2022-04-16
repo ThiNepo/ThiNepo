@@ -1,6 +1,6 @@
 # Thiago Nepomuceno
 <a href="https://www.github.com/ThiNepo" target="_blank"><img src="https://img.shields.io/badge/ThiNepo-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/thiago-nepomuceno-b8b239a5" target="_blank"><img src="https://img.shields.io/badge/thiago-nepomuceno-b8b239a5-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/thiago-nepomuceno-b8b239a5" target="_blank"><img src="https://img.shields.io/badge/thiago-nepomuceno-b8b239a5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://www.twitch.tv/nepsacademy" target="_blank"><img src="https://img.shields.io/badge/nepsacademy-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch Badge" height="25"></a>&nbsp;
 <a href="https://www.youtube.com/c/NepsAcademy" target="_blank"><img src="https://img.shields.io/badge/NepsAcademy-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/nepsacademybr" target="_blank"><img src="https://img.shields.io/badge/nepsacademybr-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
