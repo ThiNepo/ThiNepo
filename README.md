@@ -1,4 +1,5 @@
 # Thiago Nepomuceno
+
 <a href="https://www.github.com/ThiNepo" target="_blank"><img src="https://img.shields.io/badge/ThiNepo-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/thiago-nepomuceno-b8b239a5" target="_blank"><img src="https://img.shields.io/badge/thiago-nepomuceno-b8b239a5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://www.twitch.tv/nepsacademy" target="_blank"><img src="https://img.shields.io/badge/nepsacademy-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch Badge" height="25"></a>&nbsp;
@@ -6,22 +7,25 @@
 <a href="https://www.instagram.com/nepsacademybr" target="_blank"><img src="https://img.shields.io/badge/nepsacademybr-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-I am founder and CEO at Neps Academy. Besides that, I work on projects that I find interesting and/or have fun with.
+
+I am the founder and CEO of Neps Academy. Besides that, I work on projects that I find interesting and/or have fun with.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThiNepo&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
+
 🔭&nbsp;I spend most of my time **working at Neps Academy**
 <br/>🎓&nbsp;Master in **Computer Science**
 <br/>🌱&nbsp;Learning about **Web Development, DevOps, Data Science and Machine Learning**
-<br/>💡&nbsp;I'm interested about **Programming, Games and Crossfit**
+<br/>💡&nbsp;I'm interested about **Programming, Games and Crossfit** 😀
 <br/>💬&nbsp;Ask me anything about **Programming**
 <br/>😄&nbsp;Pronouns **He/His**
-<br/>⚡&nbsp;Fun fact **I was a professional cyclist 🤷**
+<br/>⚡&nbsp;Fun fact **I was a professional road cyclist 🤷**
 <br/>📫&nbsp;Reach me [thiago@neps.academy](mailto:thiago@neps.academy)
 <br/>🖥&nbsp; Learn more about Neps Academy [neps.academy](https://neps.academy)
 
 ## Tech Stack
+
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
@@ -46,6 +50,7 @@ I am founder and CEO at Neps Academy. Besides that, I work on projects that I fi
 <img src="https://img.shields.io/badge/Vuejs-05122A?style=flat&logo=vuedotjs" alt="vuejs Badge" height="25">&nbsp;
 
 ## GitHub Analytics
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiNepo&theme=default&show_icons=true&count_private=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiNepo&theme=default&layout=compact&langs_count=5">
